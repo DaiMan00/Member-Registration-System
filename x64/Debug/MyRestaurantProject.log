@@ -1,0 +1,6 @@
+﻿  Program.cpp
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\LoginForm.h(195,20): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\RegisterForm.h(347,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\Program.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MyRestaurantProject.vcxproj -> C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.exe

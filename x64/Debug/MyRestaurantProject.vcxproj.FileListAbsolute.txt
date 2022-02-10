@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.LoginForm.resources
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.LoginForm.tb.resources
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.exe
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.MainForm.resources
+C:\Users\user\Desktop\C++_MyRestaurant\MyRestaurantProject\x64\Debug\MyRestaurantProject.RegisterForm.resources
